@@ -1,5 +1,5 @@
 # Orders Microservices
 
 ```
-docker compose upd -d
+docker compose up -d
 ```
